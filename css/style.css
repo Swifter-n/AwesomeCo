@@ -1,0 +1,24 @@
+*{margin: 0;padding: 0}
+body{font-family: 'Open Sans', sans-serif;}
+.container{margin: auto;width: 500px}
+header{text-align: center;margin-bottom: 20px}
+
+.content{text-align: center;background: #4dbfbf;padding: 30px}
+.content img{width: 150px}
+.content h1{margin-bottom: 10px;font-size: 20px;color: #fff;margin-top: -10px}
+.content p{font-size: 14px}
+
+article{background: #f5774e;padding: ;text-align: center;}
+article img{margin-top: 20px}
+article .title{width: 300px;margin: auto;}
+article p{margin-bottom: 10px; line-height: 20px;font-size: 13px}
+article p a{text-decoration: none;color: #fff}
+article p a:hover{text-decoration: underline;}
+article .odd{padding: 10px;text-decoration: none;display: inline-block;color: #fff;background: #ac4d2f;font-size: 13px;width: 150px;margin-bottom: 30px}
+article .odd:hover{text-decoration: underline;}
+
+footer{background: #414141;padding: 30px;text-align: center;}
+footer img{width: 60px;margin-bottom: 20px}
+footer ul{list-style: none;overflow: hidden;margin-left: 118px;margin-bottom: 10px}
+footer li a{float: left;padding: 0 5px;border-right: 1px solid #ecf0f1;font-size: 10px;color: #ecf0f1;text-decoration: none;display: block;}
+footer p{color: #ecf0f1;font-size: 10px}
